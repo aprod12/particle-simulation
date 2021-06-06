@@ -1,0 +1,9 @@
+﻿  Aplication.cpp
+d:\egyetem\5.felev\temalabor\basics\base\base\src\vec4.h(19): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\egyetem\5.felev\temalabor\basics\base\base\src\aplication.cpp(30): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+d:\egyetem\5.felev\temalabor\basics\base\base\src\aplication.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\egyetem\5.felev\temalabor\basics\base\base\src\aplication.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\egyetem\5.felev\temalabor\basics\base\base\src\aplication.cpp(155): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\egyetem\5.felev\temalabor\basics\base\base\src\aplication.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\egyetem\5.felev\temalabor\basics\base\base\src\aplication.cpp(157): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Base.vcxproj -> D:\Egyetem\5.felev\Temalabor\Basics\Base\Debug\Base.exe
